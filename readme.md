@@ -6,5 +6,6 @@
 * [Werkzeug(백자이크)](https://werkzeug.palletsprojects.com/en/0.16.x/)
 
 * [MultiDict](https://werkzeug.palletsprojects.com/en/0.16.x/datastructures/#werkzeug.datastructures.MultiDict)
+* [SQLAlchemy 저장소](https://github.com/sqlalchemy/sqlalchemy)
 * [SQLAlchemy in Flask](https://flask.palletsprojects.com/en/1.1.x/patterns/sqlalchemy/)
 * [Using SQLite 3 with Flask](https://flask.palletsprojects.com/en/1.1.x/patterns/sqlite3/)
